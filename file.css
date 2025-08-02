@@ -1,0 +1,14 @@
+body {
+  background-color: lightblue; /* Sets the background color of the body */
+  font-family: Arial, sans-serif; /* Sets the font family */
+}
+
+h1 {
+  color: navy; /* Sets the text color of h1 elements */
+  text-align: center; /* Centers the text */
+}
+
+.button {
+  padding: 10px 20px; /* Sets padding around the button */
+  border: 1px solid black; /* Adds a border */
+}
